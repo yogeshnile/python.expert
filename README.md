@@ -3,5 +3,15 @@
 Author:- @python.expert
 
 I will send python modules code with example on this repository.
-Follow on instagram account
-https://bit.ly/3b9Qeo4
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Follow on a Social Media
+- [Instagram](https://bit.ly/3b9Qeo4)
+- [Instagram](https://bit.ly/32SXHV0) Personal
+- [Twitter](https://bit.ly/3dbLJLC)
+
