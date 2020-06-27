@@ -8,6 +8,20 @@ Author:- @python.expert
 
 I will send python modules code with example on this repository.
 
+## Directory Tree :cactus:
+```bash
+.
+├── LICENSE
+├── Password Generator
+│   └── main.py
+├── QR Code Generator
+│   ├── dependencies.txt
+│   ├── instagram.svg
+│   └── main.py
+└── README.md
+
+```
+
 
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/python.expert/issues/new) by including your search query and the expected result.
