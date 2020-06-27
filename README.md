@@ -10,9 +10,9 @@ I will send python modules code with example on this repository.
 
 
 ## Bug / Feature Request :man_technologist:
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Super-Market-Sales-Analysis/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/python.expert/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Super-Market-Sales-Analysis/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/python.expert/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Connect with me! 🌐
